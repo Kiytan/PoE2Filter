@@ -64,7 +64,7 @@ Show
 
 Show
     Sockets "1" "2" "3"
-    SetBorderColor 210 0 0
+    SetBorderColor 210 0 0 125
 
 # RelicsAndMisc
 
