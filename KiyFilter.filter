@@ -1,10 +1,10 @@
-﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
+# Script edited with Filtration - https://github.com/ben-wallis/Filtration
 
 # Shows but minimizes Gold
 Show
     BaseType "Gold"
     SetTextColor 255 215 0 155
-    SetBorderColor 217 182 75 89
+    SetBorderColor 255 215 0 155
     SetFontSize 28
 
 # Currency
@@ -16,15 +16,16 @@ Show
 
 Show
     BaseType "Regal Shard"
-    SetTextColor 235 230 165
-    SetBorderColor 50 230 100 200
+    SetTextColor 235 212 165 255
+    SetBorderColor 240 90 35
     SetFontSize 35
 
 Show
-    BaseType "Regal Orb"
-    SetTextColor 235 240 165 220
-    SetBorderColor 50 230 100
-    SetFontSize 40
+    BaseType "Regal Orb" "Exalted Orb"
+    SetTextColor 240 90 35 220
+    SetBackgroundColor 0 0 0 255
+    SetBorderColor 240 90 35 255
+    SetFontSize 35
 
 Show
     BaseType "Bronze Key"
@@ -51,8 +52,8 @@ Show
 
 Show
     Class "Socketable"
-    SetTextColor 54 100 146
-    SetBorderColor 50 230 100
+    SetTextColor 30 144 255
+    SetBorderColor 30 144 255
 
 # Gems
 
@@ -70,5 +71,5 @@ Show
 Show
     Class "Relics"
     SetTextColor 30 144 255
-    SetBorderColor 30 144 255 250
+    SetBorderColor 20 240 240 213
 
