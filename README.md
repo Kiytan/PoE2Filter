@@ -1,5 +1,5 @@
 # PoE2Filter
-A basic filter for PoE2
+A basic filter for PoE2. It does not hide anything
 
 Most of the colour and style is based on Neversinks Lunaris theme.
 
