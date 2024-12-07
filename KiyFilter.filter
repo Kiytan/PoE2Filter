@@ -5,7 +5,7 @@ Show
     BaseType "Gold"
     SetTextColor 255 215 0 70
     SetBorderColor 255 215 0 70
-    SetFontSize 26
+    SetFontSize 30
 
 # Currency
 
