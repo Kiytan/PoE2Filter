@@ -3,9 +3,9 @@
 # Shows but minimizes Gold
 Show
     BaseType "Gold"
-    SetTextColor 255 215 0 155
-    SetBorderColor 255 215 0 155
-    SetFontSize 28
+    SetTextColor 255 215 0 125
+    SetBorderColor 255 215 0 125
+    SetFontSize 26
 
 # Currency
 
