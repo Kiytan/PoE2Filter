@@ -4,7 +4,7 @@
 
 # Shows but minimizes Gold
 Show
-    BaseType "==" "Gold"
+    BaseType == "Gold"
     StackSize >= 250
     SetTextColor 255 215 0 190
     SetBorderColor 255 215 0 190
@@ -12,7 +12,7 @@ Show
 
 # Shows but minimizes Gold
 Show
-    BaseType "==" "Gold"
+    BaseType == "Gold"
     StackSize >= 100
     SetTextColor 255 215 0 120
     SetBorderColor 255 215 0 120
@@ -116,6 +116,6 @@ Show
 
 Show
     ItemLevel <= 70
-    Rarity == Rare
+    Rarity  Rare
     SetBorderColor 250 205 56
     PlayAlertSound 11 65
