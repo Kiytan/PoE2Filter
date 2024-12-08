@@ -52,6 +52,13 @@ Show
     SetBorderColor 240 90 35
 
 Show
+    BaseType "Jeweller's Orb"
+    SetTextColor 235 212 165
+    SetBackgroundColor 76 51 12 186
+    SetBorderColor 20 240 240
+    SetFontSize 40
+
+Show
     BaseType "Vaal Orb"
     SetTextColor 235 212 165 190
     SetBackgroundColor 46 0 0 255
@@ -112,5 +119,3 @@ Show
     Rarity == Rare
     SetBorderColor 250 205 56
     PlayAlertSound 11 65
-
-
