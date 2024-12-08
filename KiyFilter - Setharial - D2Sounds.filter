@@ -4,7 +4,7 @@
 
 # Shows but minimizes Gold
 Show
-    BaseType "==" "Gold"
+    BaseType == "Gold"
     StackSize >= 250
     SetTextColor 255 215 0 190
     SetBorderColor 255 215 0 190
@@ -13,7 +13,7 @@ Show
 
 # Shows but minimizes Gold
 Show
-    BaseType "==" "Gold"
+    BaseType == "Gold"
     StackSize >= 100
     SetTextColor 255 215 0 120
     SetBorderColor 255 215 0 120
