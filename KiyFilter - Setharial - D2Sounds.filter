@@ -1,4 +1,4 @@
-﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
+# Script edited with Filtration - https://github.com/ben-wallis/Filtration
 
 # Gold
 
@@ -59,6 +59,15 @@ Show
     DisableDropSound True
     CustomAlertSound "portalcast.wav" 30
 
+Show
+    BaseType "Jeweller's Orb"
+    SetTextColor 235 212 165
+    SetBackgroundColor 76 51 12 186
+    SetBorderColor 20 240 240
+    DisableDropSound True
+    CustomAlertSound "portalcast.wav" 30
+    SetFontSize 40
+    
 Show
     BaseType "Vaal Orb"
     SetTextColor 235 212 165 190
@@ -136,7 +145,7 @@ Show
     SetBorderColor 20 240 240 213
     DisableDropSound True
     CustomAlertSound "jewel.wav" 300
-    
+
 Show
     ItemLevel <= 70
     Rarity == Rare
