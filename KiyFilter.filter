@@ -107,3 +107,10 @@ Show
     SetTextColor 30 144 255
     SetBorderColor 20 240 240 213
 
+Show
+    ItemLevel <= 70
+    Rarity == Rare
+    SetBorderColor 250 205 56
+    PlayAlertSound 11 60
+
+
