@@ -1,5 +1,23 @@
 # Script edited with Filtration - https://github.com/ben-wallis/Filtration
 
+# Gold
+
+# Shows but minimizes Gold
+Show
+    BaseType "==" "Gold"
+    StackSize >= 250
+    SetTextColor 255 215 0 190
+    SetBorderColor 255 215 0 190
+    SetFontSize 34
+
+# Shows but minimizes Gold
+Show
+    BaseType "==" "Gold"
+    StackSize >= 100
+    SetTextColor 255 215 0 120
+    SetBorderColor 255 215 0 120
+    SetFontSize 31
+
 # Shows but minimizes Gold
 Show
     BaseType == "Gold"
