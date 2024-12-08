@@ -22,10 +22,16 @@ Show
 
 Show
     BaseType "Regal Orb" "Exalted Orb"
-    SetTextColor 240 90 35 220
+    SetTextColor 240 169 24 220
     SetBackgroundColor 0 0 0 255
-    SetBorderColor 240 90 35 255
+    SetBorderColor 240 90 35
     SetFontSize 35
+
+Show
+    BaseType "Chaos Orb"
+    SetTextColor 235 212 165
+    SetBackgroundColor 76 51 12 186
+    SetBorderColor 240 90 35
 
 Show
     BaseType "Bronze Key"
@@ -72,3 +78,4 @@ Show
     Class "Relics"
     SetTextColor 30 144 255
     SetBorderColor 20 240 240 213
+
