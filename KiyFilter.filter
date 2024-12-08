@@ -34,6 +34,12 @@ Show
     SetBorderColor 240 90 35
 
 Show
+    BaseType "Vaal Orb"
+    SetTextColor 235 212 165 190
+    SetBackgroundColor 46 0 0 255
+    SetBorderColor 157 0 0 255
+
+Show
     BaseType "Bronze Key"
     SetTextColor 135 75 5
     SetBorderColor 135 75 5
@@ -54,11 +60,15 @@ Show
     SetBorderColor 235 212 165 205
     SetFontSize 35
 
-# Runes
+# Runes and Charms
 
 Show
     Class "Socketable"
     SetTextColor 30 144 255
+    SetBorderColor 30 144 255
+
+Show
+    Class "Charms"
     SetBorderColor 30 144 255
 
 # Gems
