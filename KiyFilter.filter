@@ -111,6 +111,6 @@ Show
     ItemLevel <= 70
     Rarity == Rare
     SetBorderColor 250 205 56
-    PlayAlertSound 11 60
+    PlayAlertSound 11 65
 
 
